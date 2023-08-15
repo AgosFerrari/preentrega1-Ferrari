@@ -13,9 +13,9 @@ return valorDeCadaCuota;
 }
 
 //valores pedidos al cliente
-let valorTotal = parseInt(prompt("Ingrese el valor total del producto que desea comprar"));
-let cantidadDeCuotas = parseInt(prompt("Ingrese la cantidad de cuotas que prefiere"));
-let descuento = parseInt(prompt("¿Tenes un descuento? Ingresa el porcentaje"));
+let valorTotal = parseInt(prompt("Ingresá el valor total del producto que desea comprar"));
+let cantidadDeCuotas = parseInt(prompt("Ingresá la cantidad de cuotas que prefiere"));
+let descuento = parseInt(prompt("¿Tenés un descuento? Ingresá el porcentaje"));
 
 
 //calculo
